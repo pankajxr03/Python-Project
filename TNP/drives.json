@@ -1,0 +1,39 @@
+[
+  {
+    "drive_id": "D1",
+    "company": "Infosys",
+    "eligible_branch": "ENTC",
+    "date": "2026-02-10",
+    "applicants": []
+  },
+  {
+    "drive_id": "D2",
+    "company": "TCS",
+    "eligible_branch": "ENTC",
+    "date": "2025-11-15",
+    "applicants": []
+  },
+  {
+    "drive_id": "D3",
+    "company": "Wipro",
+    "eligible_branch": "ENTC",
+    "date": "2025-12-01",
+    "applicants": []
+  },
+  {
+    "drive_id": "D4",
+    "company": "Gill Instrument",
+    "eligible_branch": "ENTC",
+    "date": "2025-11-28",
+    "applicants": [
+      "BE22F04F062"
+    ]
+  },
+  {
+    "drive_id": "D5",
+    "company": "L&T",
+    "eligible_branch": "ENTC",
+    "date": "2025-11-20",
+    "applicants": []
+  }
+]

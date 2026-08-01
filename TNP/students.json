@@ -1,0 +1,198 @@
+[
+  {
+    "id": "",
+    "name": "0",
+    "branch": "6",
+    "contact": "",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F055",
+    "name": "Sakshi Vaidya ",
+    "branch": "ENTC",
+    "contact": "7559483927",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F056",
+    "name": "Sarvesh Shikalpure",
+    "branch": "ENTC",
+    "contact": "8530418644",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F057",
+    "name": "Antara Muley ",
+    "branch": "ENTC",
+    "contact": "9595431718",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F058",
+    "name": "Shreyash Bendke",
+    "branch": "ENTC",
+    "contact": "8999355020",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F059",
+    "name": "Ritika Bahure",
+    "branch": "ENTC",
+    "contact": "9022536715",
+    "placement_status": "Placed"
+  },
+  {
+    "id": "BE22F04F060",
+    "name": "Prahant Wagh",
+    "branch": "ENTC",
+    "contact": "9767920406",
+    "placement_status": "Placed"
+  },
+  {
+    "id": "BE22F04F061",
+    "name": "Atharv Vaidya",
+    "branch": "ENTC",
+    "contact": "8329482964",
+    "placement_status": "Placed"
+  },
+  {
+    "id": "BE22F04F062",
+    "name": "Ashish Rojatkar",
+    "branch": "ENTC",
+    "contact": "9975164388",
+    "placement_status": "Placed"
+  },
+  {
+    "id": "BE22F04F063",
+    "name": "Dipak Shelke",
+    "branch": "ENTC",
+    "contact": "7499990585",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F064",
+    "name": "saloni Rangari ",
+    "branch": "ENTC",
+    "contact": "7666340509",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F065",
+    "name": "Pankaj Rathod ",
+    "branch": "ENTC",
+    "contact": "9373299965",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F066",
+    "name": "Yash Gaikwad",
+    "branch": "ENTC",
+    "contact": "7620436464",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F067",
+    "name": "Siddhi Bhavsar ",
+    "branch": "ENTC",
+    "contact": "9175675955",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F068",
+    "name": "Devendra Deshpande",
+    "branch": "ENTC",
+    "contact": "7447747931",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F069",
+    "name": "Shruti Vitekar",
+    "branch": "ENTC",
+    "contact": "9021817530",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F070",
+    "name": "Ayush Varma ",
+    "branch": "ENTC",
+    "contact": "7038064854",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F071",
+    "name": "Rahul Sherkar ",
+    "branch": "ENTC",
+    "contact": "9049240621",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F072",
+    "name": "Sharwari Paithankar ",
+    "branch": "ENTC",
+    "contact": "7020889355",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F073",
+    "name": "Sanchita Rakhade ",
+    "branch": "ENTC",
+    "contact": "8459595889",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F074",
+    "name": "Tushar Korde",
+    "branch": "ENTC",
+    "contact": "9322627996",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F075",
+    "name": "Divya Bhamare",
+    "branch": "ENTC",
+    "contact": "8767749740",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F076",
+    "name": "Riddhi Gode ",
+    "branch": "ENTC",
+    "contact": "9326998080",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F077",
+    "name": "Rajvardhan Jain ",
+    "branch": "ENTC",
+    "contact": "9405888297",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F078",
+    "name": "Mrunal pantoji ",
+    "branch": "ENTC",
+    "contact": "9175578035",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F079",
+    "name": "Vaibhav Dakhorkar",
+    "branch": "ENTC",
+    "contact": "9579949094",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE22F04F080",
+    "name": "Unik Chaudhari ",
+    "branch": "ENTC",
+    "contact": "7498868751",
+    "placement_status": "Not Placed"
+  },
+  {
+    "id": "BE23S04F006",
+    "name": "VINAYAK",
+    "branch": "CSE",
+    "contact": "6794682123",
+    "placement_status": "Placed"
+  }
+]
